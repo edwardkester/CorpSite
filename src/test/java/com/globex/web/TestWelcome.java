@@ -46,5 +46,15 @@ public class TestWelcome {
                 .andExpect(model().attribute("msg", "we're not evil"));
 
     }
+    
+    @Test
+    public void testAbc() {
+        assertEquals(2, 1 + 1);
+    }
+    
+    @Test
+    public void testAbc2() {
+        assertEquals(4, 2 + 2);
+    }
 
 }
