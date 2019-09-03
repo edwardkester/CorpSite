@@ -55,11 +55,6 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Springfield
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
                                                 Mount Airy, MD
                                             </a>
                                         </li>
