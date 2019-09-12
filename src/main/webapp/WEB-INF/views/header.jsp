@@ -60,7 +60,7 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Dover, DE
+                                                Midland, MI
                                             </a>
                                         </li>
                                     </ul>
