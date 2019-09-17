@@ -60,7 +60,7 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Midland, MI
+                                                Atlanta, GA
                                             </a>
                                         </li>
                                     </ul>
