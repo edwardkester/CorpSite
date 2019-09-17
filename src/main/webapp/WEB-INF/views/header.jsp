@@ -50,7 +50,7 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Mount Airy, MD
+                                                Mount Airy, NC
                                             </a>
                                         </li>
                                         <li>
