@@ -60,7 +60,7 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Frederick, MD
+                                                Fredericksburg, VA
                                             </a>
                                         </li>
                                         <li>
