@@ -53,11 +53,6 @@
                                                 Mount Airy, NC
                                             </a>
                                         </li>
-                                         <li>
-                                            <a href="#">
-                                                Mount Airy, MD
-                                            </a>
-                                        </li>
                                         <li>
                                             <a href="#">
                                                 Fredericksburg, VA
