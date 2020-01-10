@@ -40,7 +40,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        MyLocations
+                                        Locations
                                     </a>
                                     <ul>
                                         <li>
