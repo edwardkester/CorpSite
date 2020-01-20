@@ -18,8 +18,8 @@
                 <div class="nav-bar">
                     <div class="module left">
                         <a href="/">
-                            <img class="logo logo-light" alt="Globex Corporation Ltd" src="resources/img/logo-light.png">
-                            <img class="logo logo-dark" alt="Globex Corporation Ltd" src="resources/img/logo-dark.png">
+                            <img class="logo logo-light" alt="Globex Corporation" src="resources/img/logo-light.png">
+                            <img class="logo logo-dark" alt="Globex Corporation" src="resources/img/logo-dark.png">
                         </a>
                         <span> - ${msg}</span>
                     </div>
