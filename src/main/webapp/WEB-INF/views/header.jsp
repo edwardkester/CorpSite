@@ -57,7 +57,7 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Mount Airy, Md
+                                                Mount Airy, Maryland
                                             </a>
                                         </li>
                                         <li>
