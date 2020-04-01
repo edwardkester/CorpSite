@@ -62,7 +62,7 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Fredericksburg, Va
+                                                Fredericksburg, Virginia
                                             </a>
                                         </li>
                                         <li>
