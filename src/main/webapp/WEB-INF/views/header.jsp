@@ -67,7 +67,7 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Atlanta, GA
+                                                Atlanta, Georgia
                                             </a>
                                         </li>
                                     </ul>
