@@ -52,7 +52,7 @@
                                         </li>
                                         <li>
                                             <a href="#">
-                                                Mount Airy, NC
+                                                Mount Airy, North C
                                             </a>
                                         </li>
                                         <li>
